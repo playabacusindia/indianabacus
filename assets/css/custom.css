@@ -1,0 +1,17 @@
+/* Custom Navbar Styles */
+.nav-link-custom {
+  transition: all 0.3s ease;
+  padding: 8px 16px !important;
+  border-radius: 12px;
+  color: #525252;
+}
+
+.nav-link-custom:hover {
+  color: #09C82C !important; /* Theme Green */
+  background-color: #cef4d5 !important; /* Light Green Tint */
+}
+
+/* Ensure navbar icons are also bold */
+.navbar .bi {
+  -webkit-text-stroke: 0.5px;
+}
