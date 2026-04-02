@@ -1,41 +1,41 @@
-# LearnHub- Free eLearning Bootstrap Educational Website Template
+# Ideal Play Abacus India - Landing Page
 
-#### Preview
+A premium, high-performance landing page for **Ideal Play Abacus India**, featuring a modern UI, responsive design, and optimized lead generation.
 
- - [Demo](https://themewagon.github.io/learnhub/)
+## 🚀 Key Features
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/learnhub/)
+- **Modern UI**: Clean, professional design with a focus on brand identity using the classic Indian Abacus color palette.
+- **Enhanced Navigation**: Intuitive navbar with bold icons and smooth light-green hover transitions.
+- **Lead Generation**: Specialized Franchise Inquiry and Free Trial booking forms.
+- **Asset Integration**: Functional brochure download system for the 2026 IPA brochure.
+- **Mobile Optimized**: Fully responsive layout using Bootstrap 5, ensuring a seamless experience across all devices.
+- **SEO Ready**: Optimized meta tags and semantic HTML for brain development and abacus learning keywords.
 
-## Getting Started
+## 🛠️ Project Architecture
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/learnhub.git
-```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+This project has been transitioned to a lightweight, **CDN-based static architecture**:
+- **Core**: HTML5, Vanilla JavaScript.
+- **Styling**: Bootstrap 5 + Custom Brand Overrides (`assets/css/custom.css`).
+- **Icons**: [Bootstrap Icons](https://icons.getbootstrap.com/).
+- **Media**: Optimized assets and SVG branding.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📦 Getting Started
 
-## Author 
-```
-Design and code is completely written by CodesCandy and development team. 
-```
+To view the project locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/playabacusindia/indianabacus.git
+   ```
+2. Open `index.html` in any modern web browser.
 
-## License
+## 🌐 Deployment (Hosting)
 
- - Design and Code is Copyright &copy; <a href="https://codescandy.com/" target="_blank">CodesCandy</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+For step-by-step instructions on taking this site live for free, please refer to the **[Hosting Guide](file:///C:/Users/navee/.gemini/antigravity/brain/b39b44aa-799e-4106-a92f-fc191acedb39/hosting_guide.md)** created for this project.
+
+### Recommended Host: GitHub Pages
+1. Go to repository **Settings**.
+2. Select **Pages** from the sidebar.
+3. Choose `main` branch and `/ (root)` for deployment.
+
+---
+*© 2026 Ideal Play Abacus India. All rights reserved.*
